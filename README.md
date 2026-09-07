@@ -2,7 +2,7 @@
 
 Olá! Sou Gilvan Pedro de Castro Melo Campos, estudante de Engenharia de Software no SENAI Goiás. Este repositório guarda os projetos, códigos e anotações da minha evolução para me tornar um Engenheiro Full Stack.
 
-O caminho que estou seguindo é guiado pelo documento **"Full Stack Quest, com Mapa Detalhado"**. Toda a trilha está organizada de forma progressiva: são 14 Mundos divididos em 47 Fases, onde cada tema evolui do Básico ao Avançado, culminando na publicação de um sistema completo em produção.
+O caminho que estou seguindo é guiado pelo documento **["Full Stack Quest, com Mapa Detalhado"](Full_Stack_Quest_4a_Edicao_Detalhada.pdf)**. Toda a trilha está organizada de forma progressiva: são 14 Mundos divididos em 47 Fases, onde cada tema evolui do Básico ao Avançado, culminando na publicação de um sistema completo em produção.
 
 No fim de cada Mundo, enfrentarei uma "Boss Fight", que consiste em um projeto prático projetado para fixar o conhecimento estudado.
 
