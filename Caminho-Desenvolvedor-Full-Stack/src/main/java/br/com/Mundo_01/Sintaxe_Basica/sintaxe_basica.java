@@ -1,4 +1,4 @@
-package br.com.Mundo_01;
+package br.com.Mundo_01.Sintaxe_Basica;
 
 public class sintaxe_basica {
 
