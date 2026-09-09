@@ -7,7 +7,7 @@
 
 > Objetivo do mundo: sair sabendo o vocabulário puro da linguagem Java — variáveis, decisões, repetições, texto e coleções simples — antes de misturar qualquer framework.
 
-[Voltar ao README principal](Caminho-Desenvolvedor-Full-Stack/src/main/java/br/com/Mundo_01/README.md)
+[Voltar ao README principal](README.md)
 
 ---
 
