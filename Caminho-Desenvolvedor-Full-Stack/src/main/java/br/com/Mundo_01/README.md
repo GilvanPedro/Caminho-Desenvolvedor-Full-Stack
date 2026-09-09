@@ -7,7 +7,7 @@
 
 > Objetivo do mundo: sair sabendo o vocabulário puro da linguagem Java — variáveis, decisões, repetições, texto e coleções simples — antes de misturar qualquer framework.
 
-[⬅ Voltar ao README principal](../../../../../../README.md)
+[Voltar ao README principal](Caminho-Desenvolvedor-Full-Stack/src/main/java/br/com/Mundo_01/README.md)
 
 ---
 
@@ -132,7 +132,7 @@ Como guardar e manipular várias informações de uma vez, sem banco de dados ai
 
 ---
 
-## ⚔Boss Fight 1 — A Calculadora do Aprendiz
+## Boss Fight 1 — A Calculadora do Aprendiz
 
 **Dificuldade:** Muito fácil
 Arquivo: [`Boss_Fight/calculadora.java`](Boss_Fight/calculadora.java)
@@ -164,4 +164,4 @@ Coisas que valem uma segunda passada de olho antes de avançar em dificuldade:
 
 ---
 
-*Parte da trilha [Full Stack Quest — 4ª Edição](../../../../../../Full_Stack_Quest_4a_Edicao_Detalhada.pdf).*
+*Parte da trilha [Full Stack Quest — 4ª Edição](Full_Stack_Quest_4a_Edicao_Detalhada.pdf).*
