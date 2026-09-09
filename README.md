@@ -57,7 +57,7 @@ Tecnologias desbloqueadas até o momento:
 
 Abaixo está o registro da minha jornada, totalizando 14 Boss Fights e 1 Final Boss. Os itens serão marcados com um "x" conforme os projetos forem concluídos:
 
-- [x] **Mundo 1: Fundamentos de Java** | Boss Fight: A Calculadora do Aprendiz (+60 XP) — [ver resumo →](src/main/java/br/com/Mundo_01/README.md)
+- [x] **Mundo 1: Fundamentos de Java** | Boss Fight: A Calculadora do Aprendiz (+60 XP) — [ver resumo](Caminho-Desenvolvedor-Full-Stack/src/main/java/br/com/Mundo_01)
 - [ ] **Mundo 2: Orientação a Objetos** | Boss Fight: O Validador de CPF (+90 XP)
 - [ ] **Mundo 3: Estruturas & Exceções** | Boss Fight: O Estoque que Não Perdoa (+90 XP)
 - [ ] **Mundo 4: Java Avançado** | Boss Fight: A Refatoração do Grimório (+110 XP)
@@ -89,7 +89,7 @@ Primeiro contato com o "vocabulário puro" do Java, sem framework nenhum:
 
 **Boss Fight — A Calculadora do Aprendiz:** menu de console com as 4 operações matemáticas, `while` controlando o loop do menu, proteção contra divisão por zero e histórico de contas guardado recriando o array a cada nova operação (a forma manual de "crescer" uma lista, antes de conhecer `ArrayList`).
 
-Resumo completo, tabelas de métodos e pontos para revisão: **[Mundo 1 — README detalhado](src/main/java/br/com/Mundo_01/README.md)**
+Resumo completo, tabelas de métodos e pontos para revisão: **[Mundo 1 — README detalhado](Caminho-Desenvolvedor-Full-Stack/src/main/java/br/com/Mundo_01)**
 
 ### Mundo 2: O Coração do Java (POO)
 **Status:** Não iniciado
