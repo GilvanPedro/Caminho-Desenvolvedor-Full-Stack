@@ -10,29 +10,29 @@ No fim de cada Mundo, enfrentarei uma "Boss Fight", que consiste em um projeto p
 
 ## Ficha de Personagem
 
-| Campo | Valor |
-|---|---|
-| Nome | Gilvan Pedro |
+| Campo | Valor                            |
+|---|----------------------------------|
+| Nome | Gilvan Pedro                     |
 | Classe | Desenvolvedor(a) Full Stack Java |
-| Título atual | Aprendiz |
-| Nível | 1 / 15 |
-| XP total | 0 / 1690 |
-| Mundo atual | 1 — A Vila Inicial (Fundamentos de Java) |
-| Boss Fights vencidas | 0 / 14 |
-| Final Boss | Bloqueado |
+| Título atual | Aprendiz                         |
+| Nível | 2 / 15                           |
+| XP total | 60 / 1690                        |
+| Mundo atual | 2 — O Coração do Java (POO)      |
+| Boss Fights vencidas | 1 / 14                           |
+| Final Boss | Bloqueado                        |
 
 ### Atributos (Árvores de Habilidade)
 
 Cada atributo evolui conforme os Mundos daquela trilha vão sendo concluídos. Escala de 0 (Destreinado) a 5 (Mestre).
 
 | Atributo | Trilha | Nível |
-|---|---|---|
-| Força de Java | Mundos 1–4 (Fundamentos, POO, Coleções/Exceções, Java Avançado) | 0/5 |
-| Vigor de Backend | Mundos 5, 8, 9 (Spring Boot, APIs, Segurança & Testes) | 0/5 |
-| Sabedoria de Dados | Mundos 6, 14 (SQL, PostgreSQL, Cache, Mensageria) | 0/5 |
-| Destreza de Frontend | Mundos 10, 11 (HTML/CSS/JS, TypeScript & React) | 0/5 |
-| Carisma de Arquitetura | Mundo 12 (SOLID, Clean Code, Design Patterns) | 0/5 |
-| Intelecto de Infra | Mundos 7, 13 (HTTP, Docker & CI/CD) | 0/5 |
+|---|---|-------|
+| Força de Java | Mundos 1–4 (Fundamentos, POO, Coleções/Exceções, Java Avançado) | 1/5   |
+| Vigor de Backend | Mundos 5, 8, 9 (Spring Boot, APIs, Segurança & Testes) | 0/5   |
+| Sabedoria de Dados | Mundos 6, 14 (SQL, PostgreSQL, Cache, Mensageria) | 0/5   |
+| Destreza de Frontend | Mundos 10, 11 (HTML/CSS/JS, TypeScript & React) | 0/5   |
+| Carisma de Arquitetura | Mundo 12 (SOLID, Clean Code, Design Patterns) | 0/5   |
+| Intelecto de Infra | Mundos 7, 13 (HTTP, Docker & CI/CD) | 0/5   |
 
 ### Inventário (Stack Técnica)
 
@@ -57,7 +57,7 @@ Tecnologias desbloqueadas até o momento:
 
 Abaixo está o registro da minha jornada, totalizando 14 Boss Fights e 1 Final Boss. Os itens serão marcados com um "x" conforme os projetos forem concluídos:
 
-- [ ] **Mundo 1: Fundamentos de Java** | Boss Fight: A Calculadora do Aprendiz (+60 XP)
+- [x] **Mundo 1: Fundamentos de Java** | Boss Fight: A Calculadora do Aprendiz (+60 XP) — [ver resumo →](src/main/java/br/com/Mundo_01/README.md)
 - [ ] **Mundo 2: Orientação a Objetos** | Boss Fight: O Validador de CPF (+90 XP)
 - [ ] **Mundo 3: Estruturas & Exceções** | Boss Fight: O Estoque que Não Perdoa (+90 XP)
 - [ ] **Mundo 4: Java Avançado** | Boss Fight: A Refatoração do Grimório (+110 XP)
@@ -79,9 +79,17 @@ Abaixo está o registro da minha jornada, totalizando 14 Boss Fights e 1 Final B
 Nesta seção, registro o que estudei em cada Mundo, o que construí e as principais lições aprendidas — como um diário de bordo de RPG.
 
 ### Mundo 1: A Vila Inicial (Fundamentos de Java)
-**Status:** Não iniciado
+**Status:** Concluído · +60 XP
 
-*(Em breve: resumo do que foi estudado, dificuldades encontradas e resultado da Boss Fight "A Calculadora do Aprendiz".)*
+Primeiro contato com o "vocabulário puro" do Java, sem framework nenhum:
+
+- **Sintaxe básica** — tipos primitivos, tipos Wrapper, autoboxing/unboxing, `var`, `final` e os operadores lógicos/matemáticos/relacionais.
+- **Estruturas de controle** — `if`/`else`, `switch` tradicional x `switch` expression (`->`), e os três tipos de repetição (`for`, `while`, `do-while`) com `break`/`continue`.
+- **Strings e Arrays** — os principais métodos de String (`substring`, `equals`, `replace`, `String.format`...) e os algoritmos clássicos sobre array feitos na mão (busca, soma, média, maior/menor), sem Collections ainda.
+
+**Boss Fight — A Calculadora do Aprendiz:** menu de console com as 4 operações matemáticas, `while` controlando o loop do menu, proteção contra divisão por zero e histórico de contas guardado recriando o array a cada nova operação (a forma manual de "crescer" uma lista, antes de conhecer `ArrayList`).
+
+Resumo completo, tabelas de métodos e pontos para revisão: **[Mundo 1 — README detalhado](src/main/java/br/com/Mundo_01/README.md)**
 
 ### Mundo 2: O Coração do Java (POO)
 **Status:** Não iniciado
