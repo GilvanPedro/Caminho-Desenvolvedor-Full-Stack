@@ -17,7 +17,7 @@
 - [1.2 — Estruturas de Controle](#12--estruturas-de-controle)
 - [1.3 — Strings e Arrays](#13--strings-e-arrays)
 - [Loot Secreto](#-loot-secreto)
-- [⚔Boss Fight 1 — A Calculadora do Aprendiz](#️-boss-fight-1--a-calculadora-do-aprendiz)
+- [Boss Fight 1 — A Calculadora do Aprendiz](#️-boss-fight-1--a-calculadora-do-aprendiz)
 - [Pontos de atenção para revisão futura](#-pontos-de-atenção-para-revisão-futura)
 
 ---
